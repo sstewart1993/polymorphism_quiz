@@ -1,0 +1,28 @@
+Many changes
+
+It describes the concept that different classes can be used with the same interface.
+(public class car extends vehicle)
+
+Can use classes, abstract classes and interfaces
+
+Any class in its inheritance line.
+
+As in question2
+
+Composition is when a class uses instance objects of another class as properties.
+
+When an object is made of self-contained smaller objects with their own properties and behaviours.
+E.g a car has an engine, gearstick, clutch.
+
+Aggregation uses a HAS-A relationship, composition uses a IS-A relationship.
+
+The container class still has access to the property class methods and it is not constrained by a 
+single parent class limit.
+
+If the parent is destroyed the child is also destroyed.
+
+When the aggregation object is destroyed the objects it is composed of still exist.
+
+
+
+
